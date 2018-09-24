@@ -4,3 +4,7 @@ A simple Automator workflow to make PDFs much smaller by applying a Quartz filte
 
 YMMV. 
 
+It looks like this:
+
+![Graphical depiction of an Automator workflow for compressing PDFs](https://raw.githubusercontent.com/sjml/CompressPDF/master/CompressPDF.workflow/Contents/QuickLook/Preview.png)
+
